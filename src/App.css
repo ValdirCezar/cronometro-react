@@ -27,6 +27,11 @@
   justify-content: center;
 }
 
+.buttons button {
+  margin-bottom: .5rem;
+  border-radius: 1rem;
+}
+
 button {
   width: 30%;
 }
